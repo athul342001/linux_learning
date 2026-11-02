@@ -1,0 +1,12 @@
+pwd : shows current working directory 
+ls: list the files and directories
+ls -l: this shows the detailed file info
+ls -a: this shows the hidden files
+ls -la: this shows the detailed file info and hidden files
+mkdir: this helps in create a new directory
+cd : helps in changing directory
+cd . : stay in current directory
+cd .. : helps in going back one directory( like clikcing back button) 
+touch read.txt : helps in creating a empty file
+vi read.txt: helps in writing the content to the file
+
